@@ -6,7 +6,7 @@
 trigger:
 - develop
 - feature/*
-- master
+- master/*
 
 pool:
   name: meta-agent-pool-1
